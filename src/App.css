@@ -135,3 +135,10 @@ nav ul li {
   transition: .2s;
   color: var(--primary-white);
 }
+
+.icon {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}

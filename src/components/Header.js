@@ -13,7 +13,7 @@ export default function Header() {
                     backSpeed={60}
                     loop
                     />
-                    <a href="#" className="btn-main">Contact Me</a>
+                    <a href="#contact" className="btn-main">Contact Me</a>
             </div>
         </div>
     )
