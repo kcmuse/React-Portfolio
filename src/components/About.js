@@ -1,6 +1,5 @@
 import React from "react";
 import image from "../images/hpengland.jpg";
-import Typed from 'react-typed'
 
 export default function About() {
   return (

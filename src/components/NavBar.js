@@ -7,7 +7,7 @@ export default function NavBar() {
     <div>
         <nav className="navbar navbar-expand-lg navbar-light bg-dark fixed-top">
             <div className="container">
-                    <a className="navbar-brand title" href="#">Kaleb's Portfolio</a>
+                    <a className="navbar-brand title" href="#home">Kaleb's Portfolio</a>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <FontAwesomeIcon icon={faBars} style={{color: "#ffffff"}}/>
                     </button>
