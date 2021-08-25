@@ -4,7 +4,7 @@ import Typed from 'react-typed'
 
 export default function About() {
   return (
-    <div className="about-main">
+    <div className="about-main" id="about">
       <div className="container">
         <h2 className="about-main-title">About Me!
         <img className="about-img" width="200px" height="260px" src={image} alt="kaleb"></img>
